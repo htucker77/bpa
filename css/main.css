@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://bpa-project-evyntennekoon63.c9users.io/images/background1.png");
+    margin: 0;
+    font-family: 'Oxygen', sans-serif;
+}
+
+header {
+    font-size: 125%;
+    line-height: 200%;
+}
+
+.thewayimg {
+    width: 1%;
+    opacity: 1;
+}
+
+.bpacares {
+    margin: 10% 20% 0 20%;
+    padding: 10px;
+    font-size: 90%;
+    color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.bpacares1 {
+    margin: 0 15% 0 15%;
+}
+
+footer {
+    font-size: 85%;
+    color: white;
+}
+
+footer img {
+    width: 1%;
+}
