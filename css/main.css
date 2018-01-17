@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://htucker77.github.io/bpaproj/images/background1.png");
+    background-image: url("https://bpa-project-evyntennekoon63.c9users.io/images/background1.png");
     margin: 0;
     font-family: 'Oxygen', sans-serif;
 }
@@ -22,6 +22,7 @@ header {
     border: 3px solid darkgrey;
     background-color: white;
     border-radius: 20px;
+    line-height: 20px;
 }
 
 .bpacares ul {
@@ -33,7 +34,7 @@ header {
 }
 
 footer {
-    margin: 10% 20% 0 20%;
+    margin: 5% 20% 2% 20%;
     font-size: 80%;
     color: black;
     border: 3px solid darkgrey;
