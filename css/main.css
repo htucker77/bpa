@@ -1,9 +1,15 @@
 body {
+<<<<<<< HEAD
     background-image: url("BACKGROUND7.png");
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
     margin: 0%;
+=======
+    background-image: url("http://htucker77.github.io/bpaproj/images/background1.png");
+    background-repeat:no-repeat;
+    margin: 0;
+>>>>>>> c380933babba1e2126b20be53ad7dfb32e28f5d2
     font-family: 'Oxygen', sans-serif;
 }
 
