@@ -1,0 +1,15 @@
+#breadcrumbs {
+    color: #333;
+    font-size: 12px;
+    list-style: none;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+ol li {
+    display: inline-block;
+}
+
+ol li a:hover {
+    color: red;
+}

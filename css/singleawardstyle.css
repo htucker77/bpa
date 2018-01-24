@@ -1,0 +1,15 @@
+section ul,
+h2,
+h3,
+p {
+    margin: 0 15% 0 15%;
+    padding-top: 10px;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: white;
+}
