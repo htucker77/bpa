@@ -2,7 +2,7 @@
 // http://localhost:8000/kisscartoon.js
 
 // CONFIG
-var siteName = "KissCartoon"
+var siteName = "KimCartoon"
 var rootUrl = 'http://kimcartoon.me'
 var URL = window.location.origin
 // END CONFIG
